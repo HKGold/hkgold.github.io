@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://hkgold.github.io/"
 
 facebook:
-  username: HKGoldChest # change to your github username
+  username: HKGoldChest
 
 twitter:
-  username: HKGoldOfficial # change to your twitter username
+  username: HKGoldOfficial
 
 social:
   # Change to your full name.
