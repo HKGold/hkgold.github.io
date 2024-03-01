@@ -1,8 +1,4 @@
 #  The contact options.
-
-- type: github
-  icon: "fab fa-github"
-
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
@@ -26,3 +22,6 @@
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
+- type: facebook
+  icon: 'fab fa-facebook'
+  url:  'https://www.facebook.com/HKGoldChest'   
